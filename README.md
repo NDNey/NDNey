@@ -1,20 +1,77 @@
-<h1 align="center">Hi 👋, I'm David Ney</h1>
-<h3 align="center">A passionate Software engineer</h3>
+<a target="_blank" href="https://shawncharles.com/">
+  <img src="https://i.imgur.com/536JNd9.jpg" width="100%">
+</a>
 
-- 🔭 I’m currently working on [Warrior's Honor](https://warrioshonor.netlify.app/)
-
-- 👯 I’m looking to collaborate on **Guess My Card**
-
-- 👨‍💻 All of my projects are available at [davidney.com](davidney.com)
-
-- 📫 How to reach me **davidney.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ndavidney" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ndavidney" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/david-ney-761b47201" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/david-ney-761b47201" height="30" width="40" /></a>
-<a href="https://discord.gg/David Ney#2668" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="David Ney#2668" height="30" width="40" /></a>
+<p align="center">
+  <a target="_blank" href="https://shawncharles.com/">
+    <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-link.png" width="30px;" alt="Portfolio Site" />
+  </a>
+  <a target="_blank" href="https://www.linkedin.com/in/shawnxcharles/">
+    <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-linkedin.png" width="30px;" alt="LinkedIn" />
+  </a>
+  <a target="_blank" href="https://twitter.com/shawnbasquiat">
+    <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-twitter.png" width="30px;" alt="Twitter" />
+  </a>
+  <a target="_blank" href="http://travelara.org">
+    <img src="images/plane.png" width="30px;" alt="Travelara.org"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
+
+Motivated by the power of technology as a tool for positive change, I am a Boston-based full-stack software engineer with a background in Math, Physics, and Business Management.
+
+See [my website](https://shawncharles.com) for more information!
+
+---
+
+
+## Projects
+<table bordercolor="#66b2b2">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Travelara.org</h3>
+        <br />
+        <p><a target="_blank" href="https://github.com/CharlesCreativeContent/Portfolio-2020">Repo</a> // <a target="_blank" href="http://www.travelara.org">Site</a></p>
+        <br />
+        <a target="_blank" href="http://www.travelara.org">
+            <img src="images/gif1.gif" width="100%" alt="Travelara.org"/>
+        </a>
+        <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Portfolio</h3>
+        <br />
+        <p><a target="_blank" href="https://github.com/CharlesCreativeContent/Portfolio-2020">Repo</a> // <a target="_blank" href="https://www.shawncharles.com">Site</a></p>
+        <br />
+        <a target="_blank" href="https://www.shawncharles.com">
+            <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+        </a>
+        <p><strong>HTML5, CSS3, Sass, Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Rigley 2: "Flappy Bug"</h3>
+        <br />
+        <p><a target="_blank" href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug">Repo</a> // <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">Site</a></p>
+        <br />
+        <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
+            <img src="images/gif2.gif" width="100%"  height="265px" alt="Rigley 2"/>
+        </a>
+        <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Matching Cards</h3>
+        <br />
+        <p><a target="_blank" href="https://github.com/CharlesCreativeContent/matching-card-game">Repo</a> // <a target="_blank" href="https://poke-matchcards.netlify.app/">Site</a></p>
+        <br />
+        <a target="_blank" href="https://poke-matchcards.netlify.app/">
+          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+        </a>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
+    </td>
+  </tr>
+</table>
