@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Ney</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software engineer</h3>
 
 - 🔭 I’m currently working on [Warrior's Honor](https://warrioshonor.netlify.app/)
 
