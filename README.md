@@ -1,6 +1,7 @@
 <a target="_blank" href="https://davidney.netlify.app/">
-	<img src="https://images.unsplash.com/photo-1515524738708-327f6b0037a7?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" width="100%" height="300">
+	<img src="https://images.unsplash.com/photo-1515524738708-327f6b0037a7?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" width="500" height="600">
   </a>
+ 
   
   <p align="center">
 	<a target="_blank" href="https://davidney.netlify.app/">
@@ -21,11 +22,11 @@
   
   I am David Ney a Full-Stack Software Engineer based in Boston, MA. I grew up in Nicaragua and identify as a first-generation student. Whether in the classroom or on personal projects, I have tackled problem solving head-on and always looked for answers by trying to understand the mechanics of different challenges. In university studing Civil Engineering, I became curious about building beyond the materials in our physical world. I made my way to the field of software engineering to work in a world where creation is infinite. The limitless nature of the internet opens so many new opportunities for problem solving And feed my pation for engineering.
   
-  See [my portfolio](https://davidney.netlify.app/) to see more about me!
+  See [my website](https://davidney.com) for more information!
   
   ---
   ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+  <table><tr><td valign="top" width="33%">
  
 ### Frontend  
  
@@ -41,7 +42,7 @@
 <!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />   -->
 <!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />   -->
 </div>
-<table><tr><td valign="top" width="33%">
+</td><td valign="top" width="33%">
  
 ### Backend  
  
@@ -53,7 +54,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
 <!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />   -->
 </div>
-<table><tr><td valign="top" width="33%">
+</td><td valign="top" width="33%">
  
 ### DevOps  
 <div align="center">  
@@ -64,7 +65,6 @@
 <!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />   -->
 <!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />   -->
 </div>
+</td></tr></table>
 
-
-
-  
+<br/>
