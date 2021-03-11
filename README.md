@@ -41,7 +41,7 @@
 <!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />   -->
 <!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />   -->
 </div>
-</td><td valign="top" width="33%">
+<table><tr><td valign="top" width="33%">
  
 ### Backend  
  
@@ -53,7 +53,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
 <!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />   -->
 </div>
-</td><td valign="top" width="33%">
+<table><tr><td valign="top" width="33%">
  
 ### DevOps  
 <div align="center">  
