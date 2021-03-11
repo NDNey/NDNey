@@ -26,7 +26,7 @@
   See more on [my portolio](https://davidney.netlify.app/)!
   
   ---
-  ## My Skill Set  
+  ## Skills 
   <table><tr><td valign="top" width="33%">
  
 ### Frontend  
