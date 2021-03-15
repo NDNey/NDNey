@@ -19,8 +19,7 @@
   </p>
   
   
-  
-  I am David Ney a Full-Stack Software Engineer based in Boston, MA. I grew up in Nicaragua and identify as a first-generation student. Whether in the classroom or on personal projects, I have tackled problem solving head-on and always looked for answers by trying to understand the mechanics of different challenges. In university studing Civil Engineering, I became curious about building beyond the materials in our physical world. I made my way to the field of software engineering to work in a world where creation is infinite. The limitless nature of the internet opens so many new opportunities for problem solving And feed my pation for engineering.
+ I am David Ney a Full-Stack Software Engineer based in Boston, MA. I grew up in Nicaragua and identify as a first-generation student. Whether in the classroom or on personal projects, I have tackled problem solving head-on and always looked for answers by trying to understand the mechanics of different challenges. In university studing Civil Engineering, I became curious about building beyond the materials in our physical world. I made my way to the field of software engineering to work in a world where creation is infinite. The limitless nature of the internet opens so many new opportunities for problem solving And feed my pation for engineering.
   
   
   See more on [my portolio](https://davidney.netlify.app/)!
