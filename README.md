@@ -1,5 +1,5 @@
 <a target="_blank" href="https://www.davidney.com/">
-	<img src="https://64.media.tumblr.com/766e84309b9164f987264e7f332904dd/tumblr_pkiod68txF1w5tjdn_1280.gifv" width="100%" height="270">
+	<img src="https://res.cloudinary.com/dile8hu1p/image/upload/v1635635339/welcomeGitHub_mnkw2q.gif" width="100%" height="381">
   </a>
  
   
