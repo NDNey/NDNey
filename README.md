@@ -26,7 +26,7 @@
   
   ---
   ## Skills 
-  <table><tr ><td valign="top">
+  <table><tr ><td align="top">
  
 ### Frontend  
  
@@ -53,10 +53,16 @@
 </td><td valign="top" >
  
 ### Others  
-<div align="center">  
+<div align="center" >  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
+<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" alt="django" width="40" height="40"/> </a> 
 </div>
 </td></tr></table>
+
+  ## Trophies
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=ndney&theme=onedark" alt="ndney" /></a> 
+
+
