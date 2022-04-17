@@ -63,6 +63,6 @@
 
   ## Trophies
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=ndney&theme=onedark" alt="ndney" /></a> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=ndney&theme=onedark&title=Followers,Repositories,PullRequest,Commit,Started" alt="ndney" /></a> 
 
 
